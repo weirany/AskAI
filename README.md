@@ -24,7 +24,7 @@ To obtain an OpenAI API key, log in to your account and find it [here](https://p
   </a>
 </div>
 
-## AskAI 1.1 (Downloads: [English]() / [普通话]() / [廣東話]())
+## AskAI 1.1 (Downloads: [English](https://www.icloud.com/shortcuts/18a915c6b18245cfb1b06f38fae6737d) / [普通话](https://www.icloud.com/shortcuts/2f25b12169134be682b9a35a8b80b01e) / [廣東話](https://www.icloud.com/shortcuts/b8f72a91656240c596c83061a3da28a8))
 * Enable conversation style, which means that follow-up questions take into account the previous context.
 
 
