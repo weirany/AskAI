@@ -11,15 +11,15 @@ To obtain an OpenAI API key, log in to your account and find it [here](https://p
 
 ## Demos
 
-[![Video Cover](IMAGE_URL)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video Cover](english.png)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 English
 
-[![Video Cover](IMAGE_URL)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video Cover](mandarin.png)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 普通话
 
-[![Video Cover](IMAGE_URL)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video Cover](cantonese.png)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 廣東話
 
