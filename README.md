@@ -2,6 +2,8 @@
 
 An iOS Shortcut that allows hands-free Apple Watch conversations with AI, utilizing the OpenAI API. 
 
+Inspired by: https://github.com/Yue-Yang/ChatGPT-Siri. My Shortcut emphasizes hands-free use cases. 
+
 ## Requirement:
 
 * Apple Watch (It works on other Apple devices too. But the hands-free focus works best on Apple Watch.)
