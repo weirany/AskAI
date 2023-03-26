@@ -11,18 +11,18 @@ To obtain an OpenAI API key, log in to your account and find it [here](https://p
 
 ## Demos
 
-[![Video Cover](english.png)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-English
-
-[![Video Cover](mandarin.png)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-普通话
-
-[![Video Cover](cantonese.png)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-廣東話
-
+<div style="display: flex;">
+  <a href="https://youtube.com/shorts/KxDkbHSyG2A?feature=share" style="padding: 10px">
+    <img src="english.jpeg" alt="Video Cover" width="100">
+  </a>
+  <a href="https://youtube.com/shorts/i_VpFkZuzLo?feature=share" style="padding: 10px">
+    <img src="mandarin.jpeg" alt="Video Cover" width="100">
+  </a>
+  <a href="https://youtube.com/shorts/qacr3aOU7CY?feature=share" style="padding: 10px">
+    <img src="cantonese.jpeg" alt="Video Cover" width="100">
+  </a>
+</div>
 
 ## AskAI 1.1 (Downloads: [English]() / [普通话]() / [廣東話]())
 * Enable conversation style, which means that follow-up questions take into account the previous context.
